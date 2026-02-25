@@ -2,6 +2,8 @@
 
 A small spreadsheet prgoram. Runs natively (GLFW) or in the browser (WASM).
 
+[GitHub Pages](https://dawdmaow.github.io/wasmspreadsheet/)
+
 ![Screenshot](image.png)
 
 ## Features
