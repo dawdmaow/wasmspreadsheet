@@ -29,3 +29,4 @@ Then serve the `web/` directory (e.g. `python -m http.server` in `web/`) and ope
 - [Odin](https://odin-lang.org/)
 - For native: GLFW
 - For web: a static file server for the `web/` folder
+
